@@ -13,8 +13,8 @@ body{
 h1 {
   font-family: New Times Roman;
   font-size: 3em;
-  border-bottom: 2px solid red;
-  border-right: 2px solid red;
+  border-bottom: 2px solid blue;
+  border-right: 2px solid blue;
   width: 400px;
   text-align: center;
 }
